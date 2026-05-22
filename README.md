@@ -6,6 +6,17 @@ The application allows users to swipe through Toyota models, compare specificati
 
 ---
 
+## Project Link
+
+(CLICK THE LINK FOR DEMO VIDEO!)
+
+Devpost Submission:
+
+https://devpost.com/software/toyota-swipe?ref_content=user-portfolio&ref_feature=in_progress
+
+---
+
+
 ## Features
 
 ### Vehicle Exploration
@@ -26,11 +37,7 @@ View important vehicle information including:
 ### Compare Vehicles
 Compare and contrast Toyota models to help users identify vehicles that best match their preferences.
 
-## Project Link
 
-Devpost Submission:
-
-https://devpost.com/software/toyota-swipe?ref_content=user-portfolio&ref_feature=in_progress
 
 ### Cross-Platform Compatibility
 Built with Flutter to provide a responsive experience across:
